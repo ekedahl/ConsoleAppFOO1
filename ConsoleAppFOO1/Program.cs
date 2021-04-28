@@ -13,6 +13,7 @@ namespace ConsoleAppFOO1
             Console.WriteLine("foo");
             Console.WriteLine("foo2");
             Console.WriteLine("foo3");
+            Console.WriteLine("foo4");
         }
     }
 }
